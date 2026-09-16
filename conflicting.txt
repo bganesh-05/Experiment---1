@@ -1,1 +1,2 @@
 this is show conflict 
+this is new update commit
